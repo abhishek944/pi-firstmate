@@ -1,3 +1,6 @@
+> **Moved to Astack**
+> This repository is archived and read-only. Development is maintained in the [Astack monorepo](https://github.com/abhishek944/astack); see [packages/pi-firstmate](https://github.com/abhishek944/astack/tree/main/packages/pi-firstmate).
+
 # pi-firstmate
 
 A standalone Pi package with an extension and bundled First Mate skill. Turn a primary session into a coordinator: keep conversation, decisions and quick inspection local, and delegate project execution through your installed orchestration backend. While the mode is on, the extension also restricts the coordinator's tools to a fixed inspection set plus installed orchestration, tracking, monitoring and decision tools.
